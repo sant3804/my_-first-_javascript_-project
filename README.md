@@ -23,4 +23,4 @@ A simple and interactive **Password Generator** that allows users to create secu
 3. Click the **"Generate Password"** button  
 4. Copy the password using the **copy** button  
 
-## 📂 Project Structure  
+ 
